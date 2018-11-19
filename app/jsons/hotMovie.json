@@ -1,0 +1,441 @@
+{
+  "data": {
+    "returnCode": "0",
+    "returnValue": [
+      {
+        "activities": [
+          {
+            "activityExtType": "2",
+            "activityTag": "特惠",
+            "activityTitle": "特惠活动每人仅限参加1次，单次限购1张！",
+            "id": "95803",
+            "joinCount": "0",
+            "joinLimit": "1",
+            "longDescription": "1、活动时间：2018年11月1日起，限量抢票。先到先得，抢完即恢复原价。\n2、抢票规则：用户通过淘票票平台（含淘票票客户端、支付宝钱包-淘票票）购买带有“特惠“活动标签的场次，即可享受对应的特惠观影价格。\n3、活动期内，同一用户同一影片只限享受1次活动票购买机会，单次最多可购买1张特惠电影票。（注：同一用户定义：淘宝账号、支付宝账号、手机号、移动设备任一相同，即为同一用户。）\n4、参与用户限制：支付宝账号完成支付宝实名认证的用户方可参加此次活动。\n5、退换票规定：仅标有“退票”或“改签”标识的影院支持退换票，具体以下单页面说明为准，下单前请确认。\n6、在参加活动过程中，如果出现作弊行为（如批量注册、恶意购买、虚假交易等），淘票票将自动取消该用户本次活动的活动资格，并有权撤销违规交易及取消用户后续参加淘票票任何活动的权利，必要时将追究相关法律责任。\n7、淘票票有权在法律允许范围内对活动规则做出适当调整。淘票票客服热线：0571-88157838。",
+            "seatLimit": "2"
+          }
+        ],
+        "country": "美国",
+        "derivationList": [],
+        "director": "鲁本·弗雷斯彻",
+        "duration": "107",
+        "fantastic": "22",
+        "fromSearch": "false",
+        "id": "154563",
+        "leadingRole": "汤姆·哈迪,米歇尔·威廉姆斯,里兹·阿迈德",
+        "openDay": "2018-11-09 00:00:00",
+        "openTime": "2018-11-09",
+        "orderCount": "0",
+        "poster": "https://gw.alicdn.com/i4/TB1ne5IlVYqK1RjSZLeXXbXppXa_.jpg",
+        "previewNum": "38",
+        "remark": "9.1",
+        "scoreAndFavor": {
+          "favorCount": "691855",
+          "favorCountDesc": "69.2万 人想看",
+          "score": {
+            "score": "9.1",
+            "scoreCount": "839305",
+            "scoreCountDesc": "83.9万 人评",
+            "scoreName": "淘票票评分",
+            "scoreType": "1"
+          }
+        },
+        "showMark": "3D IMAX",
+        "showName": "毒液：致命守护者",
+        "soldType": "NORMAL",
+        "type": "动作,科幻,惊悚",
+        "userShowStatus": "0",
+        "wantCount": "691855"
+      },
+      {
+        "activities": [
+          {
+            "activityExtType": "2",
+            "activityTag": "特惠",
+            "activityTitle": "特惠活动每人仅限参加1次，单次限购1张！",
+            "id": "95803",
+            "joinCount": "0",
+            "joinLimit": "1",
+            "longDescription": "1、活动时间：2018年11月1日起，限量抢票。先到先得，抢完即恢复原价。\n2、抢票规则：用户通过淘票票平台（含淘票票客户端、支付宝钱包-淘票票）购买带有“特惠“活动标签的场次，即可享受对应的特惠观影价格。\n3、活动期内，同一用户同一影片只限享受1次活动票购买机会，单次最多可购买1张特惠电影票。（注：同一用户定义：淘宝账号、支付宝账号、手机号、移动设备任一相同，即为同一用户。）\n4、参与用户限制：支付宝账号完成支付宝实名认证的用户方可参加此次活动。\n5、退换票规定：仅标有“退票”或“改签”标识的影院支持退换票，具体以下单页面说明为准，下单前请确认。\n6、在参加活动过程中，如果出现作弊行为（如批量注册、恶意购买、虚假交易等），淘票票将自动取消该用户本次活动的活动资格，并有权撤销违规交易及取消用户后续参加淘票票任何活动的权利，必要时将追究相关法律责任。\n7、淘票票有权在法律允许范围内对活动规则做出适当调整。淘票票客服热线：0571-88157838。",
+            "seatLimit": "2"
+          }
+        ],
+        "country": "美国",
+        "derivationList": [],
+        "director": "大卫·叶茨",
+        "duration": "134",
+        "fantastic": "0",
+        "fromSearch": "false",
+        "id": "215401",
+        "leadingRole": "埃迪·雷德梅恩,凯瑟琳·沃特森,约翰尼·德普,裘德·洛,埃兹拉·米勒,丹·福勒,艾莉森·苏朵儿",
+        "openDay": "2018-11-16 00:00:00",
+        "openTime": "2018-11-16",
+        "orderCount": "0",
+        "poster": "https://gw.alicdn.com/i4/TB1zrITnYvpK1RjSZPiXXbmwXXa_.jpg",
+        "preScheduleDates": [],
+        "previewNum": "35",
+        "scoreAndFavor": {
+          "favorCount": "522627",
+          "favorCountDesc": "52.3万 人想看",
+          "score": { "scoreName": "尚未上映", "scoreType": "2" }
+        },
+        "showMark": "3D IMAX",
+        "showName": "神奇动物：格林德沃之罪",
+        "soldType": "NORMAL",
+        "type": "冒险,家庭,奇幻",
+        "userShowStatus": "0",
+        "wantCount": "522627"
+      },
+      {
+        "activities": [
+          {
+            "activityExtType": "2",
+            "activityTag": "特惠",
+            "activityTitle": "特惠活动每人仅限参加1次，单次限购1张！",
+            "id": "95803",
+            "joinCount": "0",
+            "joinLimit": "1",
+            "longDescription": "1、活动时间：2018年11月1日起，限量抢票。先到先得，抢完即恢复原价。\n2、抢票规则：用户通过淘票票平台（含淘票票客户端、支付宝钱包-淘票票）购买带有“特惠“活动标签的场次，即可享受对应的特惠观影价格。\n3、活动期内，同一用户同一影片只限享受1次活动票购买机会，单次最多可购买1张特惠电影票。（注：同一用户定义：淘宝账号、支付宝账号、手机号、移动设备任一相同，即为同一用户。）\n4、参与用户限制：支付宝账号完成支付宝实名认证的用户方可参加此次活动。\n5、退换票规定：仅标有“退票”或“改签”标识的影院支持退换票，具体以下单页面说明为准，下单前请确认。\n6、在参加活动过程中，如果出现作弊行为（如批量注册、恶意购买、虚假交易等），淘票票将自动取消该用户本次活动的活动资格，并有权撤销违规交易及取消用户后续参加淘票票任何活动的权利，必要时将追究相关法律责任。\n7、淘票票有权在法律允许范围内对活动规则做出适当调整。淘票票客服热线：0571-88157838。",
+            "seatLimit": "2"
+          }
+        ],
+        "country": "日本",
+        "derivationList": [],
+        "director": "立川让",
+        "duration": "111",
+        "fantastic": "0",
+        "fromSearch": "false",
+        "id": "232973",
+        "leadingRole": "高山南,山口胜平,山崎和佳奈,小山力也,林原惠美",
+        "openDay": "2018-11-09 00:00:00",
+        "openTime": "2018-11-09",
+        "orderCount": "0",
+        "poster": "https://gw.alicdn.com/i2/TB1gyg7omzqK1RjSZPcXXbTepXa_.jpg",
+        "previewNum": "13",
+        "remark": "8.5",
+        "scoreAndFavor": {
+          "favorCount": "273287",
+          "favorCountDesc": "27.3万 人想看",
+          "score": {
+            "score": "8.5",
+            "scoreCount": "143245",
+            "scoreCountDesc": "14.3万 人评",
+            "scoreName": "淘票票评分",
+            "scoreType": "1"
+          }
+        },
+        "showMark": "2D 中国巨幕",
+        "showName": "名侦探柯南：零的执行人",
+        "soldType": "NORMAL",
+        "type": "动画,动作,悬疑",
+        "userShowStatus": "0",
+        "wantCount": "273287"
+      },
+      {
+        "activities": [
+          {
+            "activityExtType": "2",
+            "activityTag": "特惠",
+            "activityTitle": "特惠活动每人仅限参加1次，单次限购1张！",
+            "id": "95803",
+            "joinCount": "0",
+            "joinLimit": "1",
+            "longDescription": "1、活动时间：2018年11月1日起，限量抢票。先到先得，抢完即恢复原价。\n2、抢票规则：用户通过淘票票平台（含淘票票客户端、支付宝钱包-淘票票）购买带有“特惠“活动标签的场次，即可享受对应的特惠观影价格。\n3、活动期内，同一用户同一影片只限享受1次活动票购买机会，单次最多可购买1张特惠电影票。（注：同一用户定义：淘宝账号、支付宝账号、手机号、移动设备任一相同，即为同一用户。）\n4、参与用户限制：支付宝账号完成支付宝实名认证的用户方可参加此次活动。\n5、退换票规定：仅标有“退票”或“改签”标识的影院支持退换票，具体以下单页面说明为准，下单前请确认。\n6、在参加活动过程中，如果出现作弊行为（如批量注册、恶意购买、虚假交易等），淘票票将自动取消该用户本次活动的活动资格，并有权撤销违规交易及取消用户后续参加淘票票任何活动的权利，必要时将追究相关法律责任。\n7、淘票票有权在法律允许范围内对活动规则做出适当调整。淘票票客服热线：0571-88157838。",
+            "seatLimit": "2"
+          }
+        ],
+        "country": "中国大陆",
+        "derivationList": [],
+        "director": "岩井俊二",
+        "duration": "114",
+        "fantastic": "0",
+        "fromSearch": "false",
+        "id": "282395",
+        "leadingRole": "周迅,秦昊,杜江,张子枫",
+        "openDay": "2018-11-09 10:00:00",
+        "openTime": "2018-11-09 10:00",
+        "orderCount": "0",
+        "poster": "https://gw.alicdn.com/i1/TB1ebK_lCzqK1RjSZFLXXcn2XXa_.jpg",
+        "previewNum": "16",
+        "remark": "8.1",
+        "scoreAndFavor": {
+          "favorCount": "114767",
+          "favorCountDesc": "11.5万 人想看",
+          "score": {
+            "score": "8.1",
+            "scoreCount": "65198",
+            "scoreCountDesc": "6.5万 人评",
+            "scoreName": "淘票票评分",
+            "scoreType": "1"
+          }
+        },
+        "showName": "你好，之华",
+        "soldType": "NORMAL",
+        "type": "剧情,爱情",
+        "userShowStatus": "0",
+        "wantCount": "114767"
+      },
+      {
+        "activities": [
+          {
+            "activityExtType": "2",
+            "activityTag": "特惠",
+            "activityTitle": "特惠活动每人仅限参加1次，单次限购1张！",
+            "id": "95803",
+            "joinCount": "0",
+            "joinLimit": "1",
+            "longDescription": "1、活动时间：2018年11月1日起，限量抢票。先到先得，抢完即恢复原价。\n2、抢票规则：用户通过淘票票平台（含淘票票客户端、支付宝钱包-淘票票）购买带有“特惠“活动标签的场次，即可享受对应的特惠观影价格。\n3、活动期内，同一用户同一影片只限享受1次活动票购买机会，单次最多可购买1张特惠电影票。（注：同一用户定义：淘宝账号、支付宝账号、手机号、移动设备任一相同，即为同一用户。）\n4、参与用户限制：支付宝账号完成支付宝实名认证的用户方可参加此次活动。\n5、退换票规定：仅标有“退票”或“改签”标识的影院支持退换票，具体以下单页面说明为准，下单前请确认。\n6、在参加活动过程中，如果出现作弊行为（如批量注册、恶意购买、虚假交易等），淘票票将自动取消该用户本次活动的活动资格，并有权撤销违规交易及取消用户后续参加淘票票任何活动的权利，必要时将追究相关法律责任。\n7、淘票票有权在法律允许范围内对活动规则做出适当调整。淘票票客服热线：0571-88157838。",
+            "seatLimit": "2"
+          }
+        ],
+        "country": "中国大陆",
+        "derivationList": [],
+        "director": "饶晓志",
+        "duration": "108",
+        "fantastic": "0",
+        "fromSearch": "false",
+        "id": "226415",
+        "leadingRole": "陈建斌,任素汐,潘斌龙,章宇,马吟吟",
+        "openDay": "2018-11-16 00:00:00",
+        "openTime": "2018-11-16",
+        "orderCount": "0",
+        "poster": "https://gw.alicdn.com/i2/TB11D5PoVzqK1RjSZFoXXbfcXXa_.jpg",
+        "preScheduleDates": [],
+        "previewNum": "10",
+        "scoreAndFavor": {
+          "favorCount": "39291",
+          "favorCountDesc": "3.9万 人想看",
+          "score": { "scoreName": "尚未上映", "scoreType": "2" }
+        },
+        "showName": "无名之辈",
+        "soldType": "NORMAL",
+        "type": "喜剧,剧情",
+        "userShowStatus": "0",
+        "wantCount": "39291"
+      },
+      {
+        "activities": [
+          {
+            "activityExtType": "2",
+            "activityTag": "特惠",
+            "activityTitle": "特惠活动每人仅限参加1次，单次限购1张！",
+            "id": "95803",
+            "joinCount": "0",
+            "joinLimit": "1",
+            "longDescription": "1、活动时间：2018年11月1日起，限量抢票。先到先得，抢完即恢复原价。\n2、抢票规则：用户通过淘票票平台（含淘票票客户端、支付宝钱包-淘票票）购买带有“特惠“活动标签的场次，即可享受对应的特惠观影价格。\n3、活动期内，同一用户同一影片只限享受1次活动票购买机会，单次最多可购买1张特惠电影票。（注：同一用户定义：淘宝账号、支付宝账号、手机号、移动设备任一相同，即为同一用户。）\n4、参与用户限制：支付宝账号完成支付宝实名认证的用户方可参加此次活动。\n5、退换票规定：仅标有“退票”或“改签”标识的影院支持退换票，具体以下单页面说明为准，下单前请确认。\n6、在参加活动过程中，如果出现作弊行为（如批量注册、恶意购买、虚假交易等），淘票票将自动取消该用户本次活动的活动资格，并有权撤销违规交易及取消用户后续参加淘票票任何活动的权利，必要时将追究相关法律责任。\n7、淘票票有权在法律允许范围内对活动规则做出适当调整。淘票票客服热线：0571-88157838。",
+            "seatLimit": "2"
+          }
+        ],
+        "country": "美国",
+        "derivationList": [],
+        "director": "罗伯·科恩",
+        "duration": "103",
+        "fantastic": "0",
+        "fromSearch": "false",
+        "id": "887456",
+        "leadingRole": "托比·凯贝尔,玛姬·格蕾斯,瑞恩·柯万腾",
+        "openDay": "2018-11-02 00:00:00",
+        "openTime": "2018-11-02",
+        "orderCount": "0",
+        "poster": "https://gw.alicdn.com/i3/TB1IuCijPTpK1RjSZKPXXa3UpXa_.jpg",
+        "previewNum": "12",
+        "remark": "8.2",
+        "scoreAndFavor": {
+          "favorCount": "16510",
+          "favorCountDesc": "1.7万 人想看",
+          "score": {
+            "score": "8.2",
+            "scoreCount": "119222",
+            "scoreCountDesc": "11.9万 人评",
+            "scoreName": "淘票票评分",
+            "scoreType": "1"
+          }
+        },
+        "showMark": "2D 中国巨幕",
+        "showName": "飓风奇劫",
+        "soldType": "NORMAL",
+        "type": "动作,灾难",
+        "userShowStatus": "0",
+        "wantCount": "16510"
+      },
+      {
+        "activities": [
+          {
+            "activityExtType": "2",
+            "activityTag": "特惠",
+            "activityTitle": "特惠活动每人仅限参加1次，单次限购1张！",
+            "id": "95803",
+            "joinCount": "0",
+            "joinLimit": "1",
+            "longDescription": "1、活动时间：2018年11月1日起，限量抢票。先到先得，抢完即恢复原价。\n2、抢票规则：用户通过淘票票平台（含淘票票客户端、支付宝钱包-淘票票）购买带有“特惠“活动标签的场次，即可享受对应的特惠观影价格。\n3、活动期内，同一用户同一影片只限享受1次活动票购买机会，单次最多可购买1张特惠电影票。（注：同一用户定义：淘宝账号、支付宝账号、手机号、移动设备任一相同，即为同一用户。）\n4、参与用户限制：支付宝账号完成支付宝实名认证的用户方可参加此次活动。\n5、退换票规定：仅标有“退票”或“改签”标识的影院支持退换票，具体以下单页面说明为准，下单前请确认。\n6、在参加活动过程中，如果出现作弊行为（如批量注册、恶意购买、虚假交易等），淘票票将自动取消该用户本次活动的活动资格，并有权撤销违规交易及取消用户后续参加淘票票任何活动的权利，必要时将追究相关法律责任。\n7、淘票票有权在法律允许范围内对活动规则做出适当调整。淘票票客服热线：0571-88157838。",
+            "seatLimit": "2"
+          }
+        ],
+        "country": "美国",
+        "derivationList": [],
+        "director": "拉斯·霍尔斯道姆, 乔·庄斯顿",
+        "duration": "100",
+        "fantastic": "0",
+        "fromSearch": "false",
+        "id": "355665",
+        "leadingRole": "麦肯吉·弗依,摩根·弗里曼,凯拉·奈特莉,海伦·米伦",
+        "openDay": "2018-11-02 00:00:00",
+        "openTime": "2018-11-02",
+        "orderCount": "0",
+        "poster": "https://gw.alicdn.com/i2/TB1u5O0iwHqK1RjSZFgXXa7JXXa_.jpg",
+        "previewNum": "6",
+        "remark": "7.7",
+        "scoreAndFavor": {
+          "favorCount": "115850",
+          "favorCountDesc": "11.6万 人想看",
+          "score": {
+            "score": "7.7",
+            "scoreCount": "167747",
+            "scoreCountDesc": "16.8万 人评",
+            "scoreName": "淘票票评分",
+            "scoreType": "1"
+          }
+        },
+        "showMark": "3D 中国巨幕",
+        "showName": "胡桃夹子和四个王国",
+        "soldType": "NORMAL",
+        "type": "奇幻,冒险",
+        "userShowStatus": "0",
+        "wantCount": "115850"
+      },
+      {
+        "activities": [
+          {
+            "activityExtType": "2",
+            "activityTag": "特惠",
+            "activityTitle": "特惠活动每人仅限参加1次，单次限购1张！",
+            "id": "95803",
+            "joinCount": "0",
+            "joinLimit": "1",
+            "longDescription": "1、活动时间：2018年11月1日起，限量抢票。先到先得，抢完即恢复原价。\n2、抢票规则：用户通过淘票票平台（含淘票票客户端、支付宝钱包-淘票票）购买带有“特惠“活动标签的场次，即可享受对应的特惠观影价格。\n3、活动期内，同一用户同一影片只限享受1次活动票购买机会，单次最多可购买1张特惠电影票。（注：同一用户定义：淘宝账号、支付宝账号、手机号、移动设备任一相同，即为同一用户。）\n4、参与用户限制：支付宝账号完成支付宝实名认证的用户方可参加此次活动。\n5、退换票规定：仅标有“退票”或“改签”标识的影院支持退换票，具体以下单页面说明为准，下单前请确认。\n6、在参加活动过程中，如果出现作弊行为（如批量注册、恶意购买、虚假交易等），淘票票将自动取消该用户本次活动的活动资格，并有权撤销违规交易及取消用户后续参加淘票票任何活动的权利，必要时将追究相关法律责任。\n7、淘票票有权在法律允许范围内对活动规则做出适当调整。淘票票客服热线：0571-88157838。",
+            "seatLimit": "2"
+          }
+        ],
+        "country": "中国大陆",
+        "derivationList": [],
+        "director": "施雅雅",
+        "duration": "95",
+        "fantastic": "0",
+        "fromSearch": "false",
+        "id": "1288985",
+        "leadingRole": "王衡,吕佩玉,孙晔,穆雪婷,徐思琦",
+        "openDay": "2018-11-10 00:00:00",
+        "openTime": "2018-11-10",
+        "orderCount": "0",
+        "poster": "https://gw.alicdn.com/i3/TB1pKw4nBLoK1RjSZFuXXXn0XXa_.jpg",
+        "previewNum": "9",
+        "remark": "8.7",
+        "scoreAndFavor": {
+          "favorCount": "20093",
+          "favorCountDesc": "2.0万 人想看",
+          "score": {
+            "score": "8.7",
+            "scoreCount": "4895",
+            "scoreCountDesc": "4895 人评",
+            "scoreName": "淘票票评分",
+            "scoreType": "1"
+          }
+        },
+        "showMark": "3D",
+        "showName": "恐龙王",
+        "soldType": "NORMAL",
+        "type": "动画,喜剧,冒险",
+        "userShowStatus": "0",
+        "wantCount": "20093"
+      },
+      {
+        "activities": [
+          {
+            "activityExtType": "2",
+            "activityTag": "特惠",
+            "activityTitle": "特惠活动每人仅限参加1次，单次限购1张！",
+            "id": "95803",
+            "joinCount": "0",
+            "joinLimit": "1",
+            "longDescription": "1、活动时间：2018年11月1日起，限量抢票。先到先得，抢完即恢复原价。\n2、抢票规则：用户通过淘票票平台（含淘票票客户端、支付宝钱包-淘票票）购买带有“特惠“活动标签的场次，即可享受对应的特惠观影价格。\n3、活动期内，同一用户同一影片只限享受1次活动票购买机会，单次最多可购买1张特惠电影票。（注：同一用户定义：淘宝账号、支付宝账号、手机号、移动设备任一相同，即为同一用户。）\n4、参与用户限制：支付宝账号完成支付宝实名认证的用户方可参加此次活动。\n5、退换票规定：仅标有“退票”或“改签”标识的影院支持退换票，具体以下单页面说明为准，下单前请确认。\n6、在参加活动过程中，如果出现作弊行为（如批量注册、恶意购买、虚假交易等），淘票票将自动取消该用户本次活动的活动资格，并有权撤销违规交易及取消用户后续参加淘票票任何活动的权利，必要时将追究相关法律责任。\n7、淘票票有权在法律允许范围内对活动规则做出适当调整。淘票票客服热线：0571-88157838。",
+            "seatLimit": "2"
+          }
+        ],
+        "country": "英国",
+        "derivationList": [],
+        "director": "罗杰·斯波蒂斯伍德",
+        "duration": "103",
+        "fantastic": "0",
+        "fromSearch": "false",
+        "id": "216134",
+        "leadingRole": "卢克·崔德威,安东尼·海德,露塔·格德米纳斯,琼安·弗洛加特,阿卡巴尔·库尔塔,罗茜·伊德",
+        "openDay": "2018-11-02 00:00:00",
+        "openTime": "2018-11-02",
+        "orderCount": "0",
+        "poster": "https://gw.alicdn.com/i2/TB1B4ngesfpK1RjSZFOXXa6nFXa_.jpg",
+        "previewNum": "7",
+        "remark": "8.7",
+        "scoreAndFavor": {
+          "favorCount": "53609",
+          "favorCountDesc": "5.4万 人想看",
+          "score": {
+            "score": "8.7",
+            "scoreCount": "74231",
+            "scoreCountDesc": "7.4万 人评",
+            "scoreName": "淘票票评分",
+            "scoreType": "1"
+          }
+        },
+        "showName": "流浪猫鲍勃",
+        "soldType": "NORMAL",
+        "type": "剧情,喜剧,传记",
+        "userShowStatus": "0",
+        "wantCount": "53609"
+      },
+      {
+        "activities": [
+          {
+            "activityExtType": "2",
+            "activityTag": "特惠",
+            "activityTitle": "特惠活动每人仅限参加1次，单次限购1张！",
+            "id": "95803",
+            "joinCount": "0",
+            "joinLimit": "1",
+            "longDescription": "1、活动时间：2018年11月1日起，限量抢票。先到先得，抢完即恢复原价。\n2、抢票规则：用户通过淘票票平台（含淘票票客户端、支付宝钱包-淘票票）购买带有“特惠“活动标签的场次，即可享受对应的特惠观影价格。\n3、活动期内，同一用户同一影片只限享受1次活动票购买机会，单次最多可购买1张特惠电影票。（注：同一用户定义：淘宝账号、支付宝账号、手机号、移动设备任一相同，即为同一用户。）\n4、参与用户限制：支付宝账号完成支付宝实名认证的用户方可参加此次活动。\n5、退换票规定：仅标有“退票”或“改签”标识的影院支持退换票，具体以下单页面说明为准，下单前请确认。\n6、在参加活动过程中，如果出现作弊行为（如批量注册、恶意购买、虚假交易等），淘票票将自动取消该用户本次活动的活动资格，并有权撤销违规交易及取消用户后续参加淘票票任何活动的权利，必要时将追究相关法律责任。\n7、淘票票有权在法律允许范围内对活动规则做出适当调整。淘票票客服热线：0571-88157838。",
+            "seatLimit": "2"
+          }
+        ],
+        "country": "英国",
+        "derivationList": [],
+        "director": "曼迪·弗莱切",
+        "duration": "95",
+        "fantastic": "0",
+        "fromSearch": "false",
+        "id": "1291497",
+        "leadingRole": "比蒂·埃德蒙森,艾德·斯克林,珍妮弗·桑德斯",
+        "openDay": "2018-11-09 00:00:00",
+        "openTime": "2018-11-09",
+        "orderCount": "0",
+        "poster": "https://gw.alicdn.com/i2/TB1yCzjiHvpK1RjSZFqXXcXUVXa_.jpg",
+        "previewNum": "2",
+        "remark": "8.4",
+        "scoreAndFavor": {
+          "favorCount": "17188",
+          "favorCountDesc": "1.7万 人想看",
+          "score": {
+            "score": "8.4",
+            "scoreCount": "2341",
+            "scoreCountDesc": "2341 人评",
+            "scoreName": "淘票票评分",
+            "scoreType": "1"
+          }
+        },
+        "showName": "我的冤家是条狗",
+        "soldType": "NORMAL",
+        "type": "喜剧,家庭",
+        "userShowStatus": "0",
+        "wantCount": "17188"
+      }
+    ]
+  }
+}
